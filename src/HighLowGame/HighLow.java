@@ -2,7 +2,7 @@
 // Date: 3/20/21
 //Description: Higher or lower game that allows user to guess number 1-100. Can quit at any time. Can replay after correct answer. Displays correct number and number of guesses.
 
-package fivepointfour;
+package HighLowGame;
 
 import java.util.Scanner;
 import java.util.Random;
